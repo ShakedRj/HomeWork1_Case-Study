@@ -42,6 +42,18 @@ TransferWise charges a set percentage rate on a transaction which is clearly sta
 
 They offer very low fees for wiring money internationally; they offer speed and convenience that banks don't offer. 
 
+## *The secret behind TransferWise*
+TransferWise established bank accounts in many countries, this allows them to skip the international costly transaction by making two low-cost local transactions. This innovative method of transferring money makes this company more competitive against well-known banks. Revenues of a major bank are marginally impacted by the international transfers sector and don’t focus their efforts on competing in this area. The banks have loyal customers that might take a more expensive way to transfer money but TransferWise is looking to focus on international money transfers this way they can focus on making this service as efficient and profitable as possible. 
+
+## *Resources*
+* [TransferWise website](https:///www.transferwise.com)
+* [Wikipedia](https://en.wikipedia.org/wiki/TransferWise)
+* [YouTube- How TransferWise Works](https://www.youtube.com/watch?v=MLKKzRvOsLQ)
+* [YouTube- The TransferWise Story](https://youtu.be/a-OcXhIbaDE)
+* [Craft ](https://craft.co/transferwise) 
+* [iCompareFX](https://www.icomparefx.com/transferwise-competitors/)
+* [Forbes](https://www.forbes.com/sites/jeffkauflin/2019/02/04/top-payment-fintech-companies/#1416a79276c9)
+
 
 
 
