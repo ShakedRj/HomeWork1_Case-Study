@@ -54,7 +54,7 @@ Self-checkout is an important payment method in the retail market. Customers usi
 
 Some of the other major companies in this domain are:
 
-  ![](images/zelle.png =100x50) ![](images/applepay.png =100x50)            ![](images/azimo.png =100x50)   ![](images/payoneer.png =100x50)
+  ![](images/zelle.png =100x50) ![](images/applepay.png =100x50) ![](images/azimo.png =100x50) ![](images/payoneer.png =100x50)
  * Zelle is a United States-based digital payments network owned by Early Warning Services, a private financial services company owned by many of the large U.S banks. 
 
  * Apple Pay is a mobile payment and digital wallet service by Apple Inc. that allows users to make payments in person, in iOS apps, and on the web. It is supported by various Apple products. 
@@ -63,6 +63,14 @@ Some of the other major companies in this domain are:
 
  * Payoneer is a provider of a cross-border payment platform for businesses and professionals. Its solutions enable users to receive payments from international marketplaces and networks directly to their account, access funds, withdraw them to a local bank account or at ATMs worldwide, make purchases online and in-store, and pay other Payoneer customers for free. The company serves freelancing, vacation rentals, stock photography, e-commerce, and online advertising markets. 
 
+## *TransferWise Preformence*
+TransferWise has made a big impact on the international transfers market. With a valuation of $3.5b it is hard to argue that this is a huge market. With its head start in this Domaine TransferWise will continue to grow and more likely than not remain people’s first choice of third-party app (people that don’t use their own bank for international transfers). TransferWise was initially intended for personal use and once they extended their service to include commercial use, they took became a very popular option for businesses to use.  
+
+Just like in any domain of business a few important metrics are Revenue, Net income and transactions and specific to this domain important metrics are transaction volume, number of different currencies, and the number of countries operated in. Revenue is 179.1 million pounds which is significantly higher than the other start-up competitors. The Net income of the company is 10.3 million pounds which puts it an average net income for a company like this even though the revenue is higher, this may be attributed to the fact that they are expanding rapidly and aggressively. The Volume of transactions is 48 billion pounds annually which is an enormous amount. They have a lower than average amount of currencies and countries operated in. At the moment at only 49 different types of currencies is low other companies have up to 150 and the number of countries operated in is 70 which is also low compared to over 130 for competitors.  
+ 
+ This graph clearly portrays how competitve TransferWise is.
+
+![graph](images/graph.png)
 
 ## *Resources*
 * [TransferWise website](https:///www.transferwise.com)
