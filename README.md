@@ -54,7 +54,7 @@ Self-checkout is an important payment method in the retail market. Customers usi
 
 Some of the other major companies in this domain are:
 
-  ![](images/zelle.png =100x50) ![](images/applepay.png =100x50) ![](images/azimo.png =100x50) ![](images/payoneer.png =100x50)
+  <img src = "images/zelle.png" width = "100"> <img src = "images/applepay.png" width = "90"> <img src = "images/azimo.png" width = "60"> <img src = "images/payoneer.png" width = "150" >
  * Zelle is a United States-based digital payments network owned by Early Warning Services, a private financial services company owned by many of the large U.S banks. 
 
  * Apple Pay is a mobile payment and digital wallet service by Apple Inc. that allows users to make payments in person, in iOS apps, and on the web. It is supported by various Apple products. 
