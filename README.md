@@ -72,6 +72,17 @@ Just like in any domain of business a few important metrics are Revenue, Net inc
 
 ![graph](images/graph.png)
 
+## *How Can TransferWise Improve?*
+TransferWise deals with international currencies and exchanges. This could be a great time for them to enter the international currency exchange market by creating an application that is similar to a stock market app like Robinhood or cryptocurrency app like Binance, by creating a market for currencies that is simple to use and used for the purpose of investing. 
+
+Another recommendation is that they should expand to more countries and have a wider range of currencies along with a variety of cryptocurrencies. This will help them enter the majority of the currency market and include people from all over the world.  
+
+As for now, you cannot schedule transfers with TransferWise, adding this feature will add a lot to the convince they are selling.  
+
+The technology used in transferring cryptocurrency will use blockchain technology. While the investing and trading currencies would use existing technology used by Robinhood and Binance. But would use them in a more specific way with a new innovative view on international currencies.  
+
+ 
+
 ## *Resources*
 * [TransferWise website](https:///www.transferwise.com)
 * [Wikipedia-TransferWise](https://en.wikipedia.org/wiki/TransferWise)
